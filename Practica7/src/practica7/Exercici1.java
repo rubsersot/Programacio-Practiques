@@ -1,6 +1,6 @@
 package practica7;
 /*Fer una funció que rebi com a parametres el preu i la categoria 
-d'un producte i retorni el preu amb el descompte*/
+d'un producte i retorni el preu amb el descompte.*/
 import java.util.Scanner;
 import java.util.Random;
 public class Exercici1 {
